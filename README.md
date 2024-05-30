@@ -47,7 +47,7 @@
  
 <p>
   ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love writing code and learning new features<br/><br/>
+  ❤️ &emsp; Love writing code and learning new things<br/><br/>
   📧 &emsp; Reach me anytime: <a href="mailto:dzakylinggau@gmail.com">dzakylinggau@gmail.com</a><br/><br/>
   💬 &emsp; Ask me about anything <a href="https://github.com/dzakyy04/dzakyy04/issues">here</a>
 </p>
@@ -72,9 +72,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=api&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br/>
