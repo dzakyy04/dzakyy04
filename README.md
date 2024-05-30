@@ -46,10 +46,10 @@
  # About me
  
 <p>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: dzakylinggau@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/dzakyy04/dzakyy04/issues)
+  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
+  ❤️ &emsp; Love writing code and learning new features<br/><br/>
+  📧 &emsp; Reach me anytime: <a href="mailto:dzakylinggau@gmail.com">dzakylinggau@gmail.com</a><br/><br/>
+  💬 &emsp; Ask me about anything <a href="https://github.com/dzakyy04/dzakyy04/issues">here</a>
 </p>
 
 <br/>
