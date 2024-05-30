@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Use to Code
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -83,15 +83,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-
-
 <br/>
-
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=dzakyy04&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dzakyy04/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=dzakyy04&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_colaor=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dzakyy04/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=dzakyy04&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dzakyy04/web-projects)
-[![Dzakyy Readme](https://github-readme-stats.vercel.app/api/pin/?username=dzakyy04&repo=dzakyy04&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dzakyy04/dzakyy04)
 
 <p align="left">
   <a href="https://github.com/dzakyy04?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
