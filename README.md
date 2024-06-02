@@ -19,7 +19,7 @@
 
 <p align="center">
   <!--Portfolio-->
-  <a href="https://www.canva.com/design/DAGFGDzg9Do/PSUsDyrQ38giSy1lPCE9ng/view" target="_blank">
+  <a href="https://www.canva.com/design/DAGG4tw1hcY/9-uuUw3PAanWs3vZ-eoA_w/view" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="dzakyy04" />
   </a>
   <!--Email-->
