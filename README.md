@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dewa Sheva Dzaky</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+world%2C+I'm+Dzaky;Junior+Backend+Developer;Undergraduate+Informatics+Student" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">A sixth-semester Informatics student at Sriwijaya University interested in backend development, experienced with Laravel, skilled in APIs, SQL, and NoSQL databases, with good teamwork and a passion for technology.️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=dzakyy04&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=dzakyy04&label=Profile%20views&color=0e75b6&style=flat" alt="Dewa Sheva Dzaky" /> 
 </p>
 
 <div align="center">
@@ -145,4 +148,3 @@
 <h3 align="left">Activity:</h3>
 
 ![dzakyy04's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzakyy04&custom_title=Dewa%20Sheva%20Dzaky's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
