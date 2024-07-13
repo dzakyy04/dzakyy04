@@ -128,16 +128,14 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
- <br>
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Dewa Sheva Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyy04&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
+![Dewa Sheva Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyy04&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dzakyy04&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dzakyy04)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyy04&size_weight=0.5&count_weight=0.5&hide=html,css&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyy04&size_weight=0.5&count_weight=0.5&hide=html,css)
 
 
 </div>
