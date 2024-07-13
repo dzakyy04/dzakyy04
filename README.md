@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dewa Sheva Dzaky</h1>
+<h1 align="center">Hi There👋, I'm Dewa Sheva Dzaky</h1>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+world%2C+I'm+Dzaky;Junior+Backend+Developer;Undergraduate+Informatics+Student" alt="Typing SVG" /></a>
 </div>
