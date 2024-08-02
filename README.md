@@ -39,7 +39,7 @@
 
 - 💻 I’m currently a student at **Sriwijaya University**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **dzakylinggau@gmail.com**
 
