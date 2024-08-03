@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+world%2C+I'm+Dzaky;Junior+Backend+Developer;Undergraduate+Informatics+Student" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">A sixth-semester Informatics student at Sriwijaya University interested in backend development, experienced with Laravel, skilled in APIs, SQL, and NoSQL databases, with good teamwork and a passion for technology.️</p>
+<p align="center">A seventh-semester Informatics student at Sriwijaya University interested in backend development, experienced with Laravel, skilled in APIs, SQL, and NoSQL databases, with good teamwork and a passion for technology.️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=dzakyy04&label=Profile%20views&color=0e75b6&style=flat" alt="Dewa Sheva Dzaky" /> 
 </p>
